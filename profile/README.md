@@ -1,10 +1,6 @@
 # MCP Runtime
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mcp-runtime/.github/main/profile/logo.png" alt="MCP Runtime logo" width="180" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/mcp-runtime/.github/main/profile/banner.png" alt="MCP Runtime banner" />
 </p>
 
