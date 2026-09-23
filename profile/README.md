@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/mcp-runtime/.github/main/profile/banner.png" alt="MCP Runtime banner" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mcp-runtime/.github/main/profile/logo-lockup.png" width="420" alt="MCP Runtime logo" />
+</p>
+
 MCP Runtime is an open source, Kubernetes native platform for deploying, governing, and brokering Model Context Protocol (MCP) servers. It brings server delivery, access policy, request routing, audit, and operational visibility together for platform teams.
 
 **Explore:** [Website](https://mcpruntime.org/) · [Documentation](https://docs.mcpruntime.org/) · [Live platform](https://platform.mcpruntime.org/)
@@ -22,3 +26,5 @@ MCP Runtime is built around that idea: a Kubernetes native control plane that he
 - [MCP Server Fuzzer](https://github.com/mcp-runtime/mcp-server-fuzzer) — security testing for MCP servers
 
 Start with the [quickstart](https://docs.mcpruntime.org/quickstart/) to try the platform, or follow the [getting started guide](https://docs.mcpruntime.org/getting-started/) to install it on your own Kubernetes cluster.
+
+Brand assets for organization use: [logo lockup](logo-lockup.png), [dark-background lockup](logo-lockup-dark.png), and [square icon](logo.png).
