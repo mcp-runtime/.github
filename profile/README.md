@@ -1,5 +1,13 @@
 # MCP Runtime
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mcp-runtime/.github/main/profile/logo.png" alt="MCP Runtime logo" width="180" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mcp-runtime/.github/main/profile/banner.png" alt="MCP Runtime banner" />
+</p>
+
 MCP Runtime is an open source, Kubernetes native platform for deploying, governing, and brokering Model Context Protocol (MCP) servers. It brings server delivery, access policy, request routing, audit, and operational visibility together for platform teams.
 
 **Explore:** [Website](https://mcpruntime.org/) · [Documentation](https://docs.mcpruntime.org/) · [Live platform](https://platform.mcpruntime.org/)
