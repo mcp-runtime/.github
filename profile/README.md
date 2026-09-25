@@ -24,3 +24,5 @@ Run MCP servers like any other production service: deployed in environments you 
 - [MCP Server Fuzzer](https://github.com/mcp-runtime/mcp-server-fuzzer) — security testing for MCP servers
 
 Start with the [quickstart](https://docs.mcpruntime.org/quickstart/) to try the platform, or follow the [getting started guide](https://docs.mcpruntime.org/getting-started/) to install it on your own Kubernetes cluster.
+
+Brand assets for organization use: [logo lockup](logo-lockup.png), [dark-background lockup](logo-lockup-dark.png), and [square icon](logo.png).
